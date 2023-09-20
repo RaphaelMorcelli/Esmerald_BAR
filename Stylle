@@ -1,0 +1,70 @@
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: #1f1e1e;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #0c0427;
+}
+
+.itens {
+	font-style: italic
+}
+
+.botao{
+	background: #1d1a1a;
+	padding: 20px;
+	text-align: center;
+    color: rgb(255, 255, 255);
+    background: rgb(83, 61, 163);
+    border:1px solid #000000;
+	border-radius: 5px;
+
+}
+
+.btn{
+	
+	vertical-align: top;
+    margin-top: 50px;
+    padding: 10px 20px;
+    width: 70px;
+    
+}
+
+.btn1{
+	
+	vertical-align: top;
+    margin-top: 50px;
+    padding: 10px 20px;
+    width: 70px;
+    
+}
+
+.btn2{
+	
+	vertical-align: top;
+    margin-top: 50px;
+    padding: 10px 20px;
+    width: 70px;
+    
+}
